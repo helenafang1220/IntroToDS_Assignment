@@ -1,0 +1,6 @@
+Segmentation Data,Description
+Classification,shown in two categories :      0 = hospitalised                      1 = consultation
+Age,shown in four age group :               1 = 0-4 years old                   2 = 15-24 years old               3 = 25-64 years old               4 = over 65 years old
+Location ,1 = Northern Taiwan                   2 = Middle Taiwan                 3 = Southern Taiwan                   4 = Eastern Taiwan                      5 = Outlying Islands
+Number_of_Visit_Cases,Number of diarrhea cases that seek for medical help
+Total_Number_of_health_insurance_Visit_Cases,Number of diarrhea cases that seek for medical help and using health insurance
